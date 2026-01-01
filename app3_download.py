@@ -19,14 +19,14 @@ config = {
 confirmation_message = """
 Dear {name},
 
-We are thrilled to confirm your participation in the exciting upcoming event: *Karachi AI Meetup #24: Monetizing Applied AI Skills*! 🎉
+We are thrilled to confirm your participation in the exciting upcoming event: *Karachi AI Meetup #25: Startups Scaled with AI*! 🎉
 
 Please note that *100 Certificates* will be available on a first-come, first-serve basis for registered participants. Make sure to get your name noted!
 
 *Event Details*:
-- *Date:* Sunday, 14th Sep 2025  
+- *Date:* Saturday, 10th Jan 2026  
 - *Time:* 1:00 PM - 6:00 PM Sharp  
-- *Venue:* CS-AUDI, Block-C, Second Floor, Muhammad Ali Jinnah University, Karachi
+- *Venue:* (Venue in Progress)
 
 *Location Pin:* [Register here](https://www.karachidotai.com/meetup/location)  
 
@@ -42,21 +42,21 @@ social_share = """
 🚀 Exciting News! I'm thrilled to share an extraordinary upcoming event: *Karachi AI Meetup #24: Monetizing Applied AI Skills*! 🧠🏥⚽
 
 *Event Details*:
-- *Date:* Sunday, 14th Sep 2025  
+- *Date:* Saturday, 10th Jan 2026  
 - *Time:* 1:00 PM - 6:00 PM Sharp  
-- *Venue:* CS-AUDI, Block-C, Second Floor, Muhammad Ali Jinnah University, Karachi
+- *Venue:* (Venue in Progress)
 
-🎯 *Theme:* Monetizing Applied AI Skills  
+🎯 *Theme:* Gen AI Startups Scaled with AI Lifecycle  
 
 Join us to explore how we can Monetize Applied AI Skills. This meetup will dive deep into:  
-- *Monetization with Coding abilities as Freelancer in Gen AI*  
-- *Monetization with AI-Powered Content Creation (Media)*  
-- *Monetization with Building & Selling Micro SaaS Using AI*  
-- *Monetization with No-Code abilities with AI Automation*  
-- *Monetization with AI Consulting (Strategy, Marketing, HR)*
+- *Data Layer (Datasets, Annotation, Synthetic Data, Knowledge Bases)*  
+- *Model Layer (Finetuned Models, Localization Workflows, Domain Specific Reasoning)*  
+- *Performance Layer (LLM Evaluation, Safety, Guardrails, Observability)*  
+- *Integration Layer (APIs, Agents, Workflows, MCPs)*  
+- *Gen AI Lifecycle Startups Pitchathon*
 
 👩‍⚕️ *Who Should Attend?*  
-Anyone can attend the event who want to earn money with the Power of Applied AI Skills!**
+Founders, indie developers, automation engineers, product builders, MLOps practitioners, Gen AI freelancers, Students, and Professionals in Learning Gen AI Lifecycle is Run, Deployed, and Commercialized inside startup environments.!**
 
 🧠 No tech background required. Just curiosity and a passion for innovation!
 
@@ -168,3 +168,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
