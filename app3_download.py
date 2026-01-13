@@ -4,7 +4,7 @@ import os
 
 # Configuration Dictionary for Easy Parametrization
 config = {
-    'certificate_image': 'KAI-MEETUP-ATTEND-SHARE.jpeg',
+    'certificate_image': 'Karachi AI - Meetup 25 - Creatives - Landscape.jpg',
     'font_path': 'arial.ttf',
     'font_size': 40,
     'circle_radius': 140,
@@ -24,9 +24,9 @@ We are thrilled to confirm your participation in the exciting upcoming event: *K
 Please note that *100 Certificates* will be available on a first-come, first-serve basis for registered participants. Make sure to get your name noted!
 
 *Event Details*:
-- *Date:* Saturday, 10th Jan 2026  
+- *Date:* Saturday, 17th Jan 2026  
 - *Time:* 1:00 PM - 6:00 PM Sharp  
-- *Venue:* (Venue in Progress)
+- *Venue:* (WisdomSquare Auditorium, iRoots College, Shahrae Faisal, Khi)
 
 *Location Pin:* [Register here](https://www.karachidotai.com/meetup/location)  
 
@@ -42,9 +42,9 @@ social_share = """
 🚀 Exciting News! I'm thrilled to share an extraordinary upcoming event: *Karachi AI Meetup #24: Monetizing Applied AI Skills*! 🧠🏥⚽
 
 *Event Details*:
-- *Date:* Saturday, 10th Jan 2026  
+- *Date:* Saturday, 17th Jan 2026  
 - *Time:* 1:00 PM - 6:00 PM Sharp  
-- *Venue:* (Venue in Progress)
+- *Venue:* (WisdomSquare Auditorium, iRoots College, Shahrae Faisal, Khi)
 
 🎯 *Theme:* Gen AI Startups Scaled with AI Lifecycle  
 
@@ -168,4 +168,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
